@@ -20,4 +20,4 @@ To create a conda environment a install all requirements needed:
 
 ```python stats.py```
 
-The most important file here is stats.py, this file will display our results being computed. Might take 25 minutes to run as OIS and ODS metrics compute over a set of thresholds. If you want to quickkly check feel free to comment it out.
+The most important file here is stats.py, this file will display our results being computed. Might take 25 minutes to run as OIS and ODS metrics compute over a set of thresholds. If you want to quickly check feel free to comment it out.
